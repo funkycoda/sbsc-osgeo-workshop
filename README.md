@@ -1,0 +1,1 @@
+# sbsc-osgeo-workshop
